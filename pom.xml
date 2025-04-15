@@ -10,6 +10,7 @@
 	</parent>
 	<groupId>com.org.java</groupId>
 	<artifactId>SpringbootTomcatCICDPipelineApp</artifactId>
+	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SpringbootTomcatCICDPipelineApp</name>
 	<description>Demo project for Spring Boot</description>
