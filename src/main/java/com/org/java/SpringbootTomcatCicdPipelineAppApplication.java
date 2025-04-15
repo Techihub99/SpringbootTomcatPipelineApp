@@ -10,7 +10,7 @@ public class SpringbootTomcatCicdPipelineAppApplication extends SpringBootServle
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootTomcatCicdPipelineAppApplication.class, args);
-		System.out.println("hello");
+		System.out.println("helloyyyy");
 	}
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
